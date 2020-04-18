@@ -59,7 +59,7 @@ Outcome	- Class variable (either 0 or 1). 268 of 768 values are 1, and the other
 
  
 
-## Project Task: Week 4
+## Task: Week 4
 
 ### Data Modeling:
 
